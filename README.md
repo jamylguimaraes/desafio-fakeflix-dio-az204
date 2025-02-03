@@ -3,8 +3,8 @@ Repositorio do desafio az-204 da dio
 
 # Como Rodar 
 
-git clone https://github.com/seu-usuario/azure-functions-movie-catalog.git
-cd azure-functions-movie-catalog
+git clone https://github.com//jamylguimaraes/desafio-fakeflix-dio-az204.git
+cd desafio-fakeflix-dio-az204
 
 pip install -r requirements.txt
 
